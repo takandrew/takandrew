@@ -11,4 +11,4 @@
   <td><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takandrew&langs_count=4&hide=css,scss&layout=compact&hide_border=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
     </tr>    
 </table>
-</p>
+</p> 
