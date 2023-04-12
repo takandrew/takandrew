@@ -18,10 +18,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=takandrew&theme=modern-lilac2&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <p align="center">
-  <a width="300px" align="left" href="https://www.codewars.com/users/takandrew" target="_blank" rel="noopener noreferrer">
+  <a width="300px" align="left" href="https://www.codewars.com/users/takandrew">
     <img width="300px" align="left" src="https://www.codewars.com/users/takandrew/badges/small">
   </a>
-  <a width="300px" align="left" href="https://leetcode.com/Takandrew/" target="_blank" rel="noopener noreferrer">
+  <a width="300px" align="left" href="https://leetcode.com/Takandrew/">
     <img width="150px" align="left" src="https://img.shields.io/badge/dynamic/json?style=for-the-             badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTakandrew&logo=leetcode&logoColor=yellow">
   </a>
   <table>
